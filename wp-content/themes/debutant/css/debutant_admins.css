@@ -1,0 +1,35 @@
+#adminmenu .toplevel_page_Debutant {background: #000;}
+.elementor-section>.elementor-element-overlay {z-index: 100;}
+.sfcd-review-notice, .rAds, .woocommerce-wootenberg-promo-messages, .elementor-message, .woocommerce-message, .mc4wp-is-dismissible, .is-dismissible {display: none;}
+.clearfix {clear: both;}
+.stm-admin-start-screen {min-height: 700px;}
+@media only screen and (min-width: 769px) {.col-md-12.col-lg-9.deb_main_sidebar .alignfull {max-width: calc(100% + 200px);width: calc(100% + 200px);margin-left: -200px;}
+	.col-md-12.col-lg-9.deb_main_sidebar .alignwide {max-width: calc(100% + 100px);max-width: 1000%;width: calc(100% + 100px);margin-left: -100px;}
+	.deb_main_sidebar.col-md-12 .alignwide {margin-left: -50px;}
+	.deb_main_sidebar.col-md-12 .alignfull {margin-left: -100px;}}
+.wp-block-quote cite {font-size: 18px;text-transform: none;font-weight: normal;font-style: normal;margin-top: 20px !important;display: block;}
+.wp-block-quote p {margin-bottom: 0;}
+.wp-block-quote {text-transform: none !important;font-weight: normal;}
+.wp-block-quote.is-large, .wp-block-quote.is-style-large {padding: 50px !important;}
+.wp-block-quote.is-style-large p {font-size: 120% !important;font-style: normal;}
+.wp-block-separator.is-style-wide {width: calc(100% + 200px);margin-left: -100px;}
+.wp-block-separator {position: relative;}
+.wp-block-quote hr {width: 100%;min-width: 100%;background: none !important;border-bottom: 1px solid #f2f2f2 !important;margin-top: 40px !important;margin-bottom: 40px !important;}
+.blocks-gallery-item img {margin-bottom: 0;}
+.wp-block-cover {border-radius: 5px;}
+.wp-block-image.alignfull img {width: calc(100% + 120px);max-width: none;margin-left: -120px;}
+.wp-block-gallery {padding-left: 0 !important;}
+.block-editor__container .editor-post-title__input {font-size: 42px;line-height: 48px;color: #000;letter-spacing: -1px;font-family: Poppins;}
+.edit-post-visual-editor h2, .edit-post-visual-editor h2 a, .block-editor__container h2.editor-rich-text__editable {font-size: 32px;line-height: 38px;color: #000;letter-spacing: -1px;font-family: Poppins;}
+.edit-post-visual-editor h3, .edit-post-visual-editor h3 a {font-size: 24px;line-height: 32px;color: #000;font-family: Poppins;}
+.edit-post-visual-editor h4 {font-size: 20px;line-height: 26px;color: #000;font-family: Poppins;}
+.edit-post-visual-editor h5 {font-size: 14px;line-height: 24px;text-transform: uppercase;letter-spacing: 2px;color: #f7b500;font-family: Poppins;}
+.edit-post-visual-editor h6 {font-size: 10px;line-height: 18px;color: #000;letter-spacing: 2px;font-family: Poppins;}
+.site-branding a {color: #cb3a0d;}
+.block-editor__container .wp-block-paragraph {color: #a7a7a7;font-family: Open Sans;font-size: 16px;line-height: 24px;letter-spacing: .1px;}
+.block-editor__container .editor-rich-text__editable {font-family: Open Sans;}
+.block-editor__container img {border-radius: 5px;}
+.edit-post-visual-editor blockquote, .edit-post-visual-editor address {background: #fff;padding: 30px;font-size: 26px !important;line-height: 34px !important;margin: 40px 0 !important;border-radius: 10px;-webkit-box-shadow: 2px 2px 40px rgba(0,0,0,.05);box-shadow: 2px 2px 40px rgba(0,0,0,.05);}
+.edit-post-visual-editor blockquote:before {display: block;content: "";font-family: dashicons;font-size: 50px;color: #ccc;margin-bottom: 30px;font-style: normal;}
+.edit-post-visual-editor address:before {display: block;content: "";font-family: themify;font-size: 50px;color: #ccc;margin-bottom: 30px;font-style: normal;}
+.edit-post-visual-editor blockquote p:last-child {margin: 0;}
